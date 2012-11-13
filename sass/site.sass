@@ -3,6 +3,11 @@
 *
   +box-sizing(border-box)
 
+// Make iOS Safari not resize text on devices smaller than iPhone5 max-width
+@media only screen and (max-device-width: 568px)
+  html
+    -webkit-text-size-adjust: none
+
 $gold-color: #b28c45
 $default-rule-color: #eee4cf
 $link-blue-color: #3494ff
@@ -155,7 +160,8 @@ nav
 #github:before
   background-image: image-url("companies/github.png")
 
-#many_more:before
+// #many_more:before
+//   background-image: image-url("companies/oviary.png")
 
 #pinterest:before
   background-image: image-url("companies/pinterest.png")
