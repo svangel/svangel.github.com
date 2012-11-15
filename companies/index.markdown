@@ -26,6 +26,6 @@ name: companies
   Micro-blog and status messaging platform to find out what’s happening, right now, with the people and organizations you care about
 
 * ## Warby Parker
-  Online store for boutique-quality, classically crafted eye ear at a revolutionary price poinnt.
+  Online store for boutique-quality, classically crafted eye wear at a revolutionary price point.
 
 * ## Many more
