@@ -153,6 +153,41 @@ nav
       +box-shadow(0 0 6px rgba(black,.25))
       background: no-repeat center center
 
+.page-founder
+  p
+    margin: 0px 0px 20px
+  strong
+    font-weight: 600
+  ul
+    +clearfix
+    margin-bottom: 20px
+  li
+    float: left
+    width: $alphabet-length * 1.5
+    margin: 0px
+    padding: 10px
+    border:
+      top: 1px solid $text-color
+      right: 1px solid $text-color
+      left: 1px solid $text-color
+    &:last-child
+      border: 1px solid $text-color
+    &:hover
+      box-shadow: 5px 0px 0px 0px $link-blue-color inset
+  .feature
+    ul
+      +clearfix
+    li
+      float: left
+      width: ($alphabet-length * 1.5)/3 - 0.75em
+      margin: 0px 20px 5px 0px
+      padding: 10px
+      text-align: center
+      border: 1px solid $text-color
+      &:hover
+        color: #FFF
+        background-color: $link-blue-color
+
 #airbnb:before
   background-image: image-url("companies/airbnb.png")
 
