@@ -20,6 +20,6 @@ name: home
     <a href="http://www.csrresources.org/" target="_blank">www.csrresources.org</a>
   </div>
 
-<center><a href='http://www.sandyhookpromise.org' target='_blank' style='border:0;margin:0;padding:0;'> <img src='https://shp.nationbuilder.com/assets/pages/43/SHPBadge200.jpg' alt='Sandy Hook Promise, www.sandyhookpromise.org' style='border:0;margin:0;padding:0;' /> </a></center>
+<center><a href='http://www.sandyhookpromise.org' target='_blank' style='border:0;margin:0;padding:0;'> <img src='/i/sandy-hook-promise.jpg' alt='Sandy Hook Promise, www.sandyhookpromise.org' style='border:0;margin:0;padding:0;' /> </a></center>
 
 </div>
