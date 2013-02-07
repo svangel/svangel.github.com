@@ -16,8 +16,8 @@ name: home
   </div>
 
   <div class="feature">
-    We support the Entrepreneur Foundation and encourage you to participate. EF is a non-profit public charity on a mission to encourage, empower and enhance corporate philanthropy and corporate community involvement. More info:
-    <a href="http://www.csrresources.org/" target="_blank">www.csrresources.org</a>
+    We support the 1-1-1 Giving Pledge and encourage you to participate. This is an effort to invite technology entrepreneurs and their companies to commit 1% of their pre-IPO equity to develop philanthropic programs at their companies.
+    <a href="http://www.sharethemodel.org/" target="_blank">www.sharethemodel.org</a>
   </div>
 
 <center><a href='http://www.sandyhookpromise.org' target='_blank' style='border:0;margin:0;padding:0;'> <img src='/i/sandy-hook-promise.jpg' alt='Sandy Hook Promise, www.sandyhookpromise.org' style='border:0;margin:0;padding:0;' /> </a></center>
