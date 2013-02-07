@@ -16,7 +16,7 @@ name: home
   </div>
 
   <div class="feature">
-    We support the 1-1-1 Giving Pledge and encourage you to participate. This is an effort to invite technology entrepreneurs and their companies to commit 1% of their pre-IPO equity to develop philanthropic programs at their companies.
+    We support the 1-1-1 Pledge and encourage you to participate. This is an effort to invite technology entrepreneurs and their companies to commit 1% of their pre-IPO equity to develop philanthropic programs at their companies.
     <a href="http://www.sharethemodel.org/" target="_blank">www.sharethemodel.org</a>
   </div>
 
