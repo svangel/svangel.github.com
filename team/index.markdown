@@ -28,7 +28,7 @@ Ron has been an active angel investor since the mid 90’s. He was the Founder a
 Philanthropically, Ron is a Board Member of the Salesforce.com Foundation, and member of the UCSF Medical Center Chancellor's Advisory Board in SF, and is active in fundraising for the UCSF Benioff Children's Hospital, The Tiger Woods Foundation, sf.citi (San Francisco’s tech-backed civic organization), College Track, Sandy Hook Promise-Newtown CT, Americans for Responsible Solutions-Gabby Giffords, Teach for America, THORN Foundation, and Donors Choose.
 
 ## Abram Dawson
-Abram Dawson is an Associate at SV Angel. Abram recently graduated from Santa Clara University with a degree in Economics. While at SCU, he developed several social-marketing mobile apps, worked as a tutor in the Economics department, and was involved with the Center for Innovation and Entrepreneurship. Abram presented at the CIE's Global Entrepreneurship Week, and was a panelist at their Startup Expo and Parents Weekend Speaker Series.
+Abram Dawson is an Associate at SV Angel. Abram joined SV Angel in 2012 after graduating from Santa Clara University with a B.S. in Economics. While an undergrad, he designed and developed a number of mobile apps, tutored economics, and worked closely with the Center for Innovation and Entrepreneurship.
 
 ## Kathryn Johnson
 Kathryn Johnson is an Executive Assistant at SV Angel. She brings over 15 years of support experience to the team. Prior to SV Angel, Kathryn worked at Yahoo as an Executive Assistant to senior-level executives within sales, operations, advertising and product departments. She started her career in Healthcare, but after working at AOL many years ago, she knew that Technology was where she was meant to be.
