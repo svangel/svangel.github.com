@@ -34,5 +34,8 @@ Abram Dawson is an Associate at SV Angel. Abram joined SV Angel in 2012 after gr
 ## Mike Liu
 Mike Liu is an Associate at SV Angel. Mike joined SV Angel in 2014 from Qatalyst Partners, where he worked on M&A and strategic advisory assignments in the technology sector. Mike graduated from Stanford University with a B.S. in Management Science and Engineering.
 
+## Paul La Londe
+Paul La Londe is an Associate at SV Angel. Paul joined SV Angel in 2014 from Goldman Sachs’ Private Wealth Management group. At Goldman Sachs he worked closely with high net worth individuals across the venture capital and technology markets. Prior to Goldman Sachs, Paul worked for Seven Hills Partners, a middle-market investment bank. During his time at Seven Hills he advised technology companies on a broad range of strategic alternatives including mergers, acquisitions and private placements. Paul is a graduate of Santa Clara University with a BS in Finance.
+
 ## Kathryn Johnson
 Kathryn Johnson is an Executive Assistant at SV Angel. She brings over 15 years of support experience to the team. Prior to SV Angel, Kathryn worked at Yahoo as an Executive Assistant to senior-level executives within sales, operations, advertising and product departments. She started her career in Healthcare, but after working at AOL many years ago, she knew that Technology was where she was meant to be.
